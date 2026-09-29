@@ -1,0 +1,61 @@
+FRAB SOURCE-AVAILABLE EDUCATIONAL LICENSE
+Version 1.0
+
+Copyright (c) 2026 VoidOaz
+
+1. PERMITTED USE
+
+Permission is granted to view, read, study, and inspect the source code of Frab for personal, educational, research, and learning purposes.
+
+You may use the source code to understand programming techniques, software architecture, optimization methods, and other educational concepts.
+
+2. RESTRICTIONS
+
+Without explicit written permission from the copyright holder, you may NOT:
+
+* Use any part of the Frab source code in another publicly available project.
+* Copy, redistribute, publish, or otherwise distribute the source code.
+* Publish a modified, translated, ported, or derivative version of Frab.
+* Copy individual classes, methods, systems, modules, algorithms, or other substantial portions of the source code into another project.
+* Remove or replace the original copyright and license notices and then distribute the resulting work.
+* Repackage, rename, or modify Frab and distribute it as another project.
+* Use the Frab source code for commercial purposes.
+* Create and distribute forks or derivative versions of Frab.
+
+3. PERSONAL MODIFICATION
+
+You may modify the source code locally for personal learning, testing, experimentation, and educational purposes.
+
+However, modified versions and derivative works may not be published, distributed, or incorporated into another project without explicit written permission from the copyright holder.
+
+4. PUBLIC PROJECTS
+
+Making the Frab source code publicly visible does not grant permission to use that code in another publicly available project.
+
+The source code may be viewed for educational and research purposes only, subject to the restrictions of this license.
+
+5. COPYRIGHT
+
+Frab and its source code remain the property of the copyright holder.
+
+No ownership or copyright rights are transferred by this license.
+
+6. PERMISSION FOR EXCEPTIONS
+
+The copyright holder may grant additional permissions on a case-by-case basis.
+
+Any exception must be explicitly granted in writing by the copyright holder.
+
+7. NO WARRANTY
+
+Frab is provided "AS IS", without warranty of any kind, express or implied.
+
+The copyright holder shall not be held responsible for any damage, loss, or issues resulting from the use or inability to use Frab.
+
+8. LICENSE VIOLATIONS
+
+Any use not expressly permitted by this license is prohibited unless explicit written permission is obtained from the copyright holder.
+
+By accessing or using the Frab source code, you agree to comply with the terms of this license.
+
+END OF LICENSE
