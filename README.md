@@ -81,9 +81,7 @@ The following languages are currently supported:
 
 * 🇬🇧 English
 * 🇹🇷 Turkish
-* 🇩🇪 German
 * 🇳🇱 Dutch
-* 🇪🇸 Spanish
 
 The **English version is the authoritative version** of the license.
 
